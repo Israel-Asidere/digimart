@@ -47,7 +47,7 @@ function App () {
               <div className='inner-grid-details'>
                 <p className='bold-text'>ROUNDNECK T-SHIRT</p>
 
-                <p className='bold-text'>#5,000</p>
+                <p className='bold-text'>₦5,000</p>
                 <p className='bold-text'>Qty: 1</p>
               </div>
               <div className='inner-grid-size'>
@@ -64,7 +64,7 @@ function App () {
 
               <div className='inner-grid-details-two'>
                 <p className='bold-text'>ROUNDNECK T-SHIRT</p>
-                <p className='bold-text'>#10,000</p>
+                <p className='bold-text'>₦10,000</p>
                 <p>Qty: 1</p>
               </div>
               <div className='inner-grid-size-two'>
@@ -75,15 +75,15 @@ function App () {
             {/* <hr /> */}
             <div className='subtotal'>
               <p>Subtotal</p>
-              <p>#15,000</p>
+              <p>₦15,000</p>
               <p>Delivery</p>
-              <p className='bold-text'>#1,500</p>
+              <p className='bold-text'>₦1,500</p>
               <p>Promotion Discount</p>
-              <p>-#1000</p>
+              <p>-₦1000</p>
               <p>Transaction Cost</p>
-              <p>#200</p>
+              <p>₦200</p>
               <p>VAT(3%)</p>
-              <p>#450</p>
+              <p>₦450</p>
             </div>
             {/* <hr /> */}
 
@@ -92,7 +92,7 @@ function App () {
                 <h4>Total</h4>
               </div>
               <div className='total-price'>
-                <h4>#16,150</h4>
+                <h4>₦16,150</h4>
               </div>
             </div>
             {/* <hr /> */}
@@ -163,7 +163,7 @@ function App () {
         <div className='section4'>
           <button className='button-close-deal'>CLOSE DEAL WITH VENDOR</button>
           <br />
-          <button className='button-pay'>PAY #16,150</button>
+          <button className='button-pay'>PAY ₦16,150</button>
         </div>
       </div>
       <div className='footer'>Footer</div>
